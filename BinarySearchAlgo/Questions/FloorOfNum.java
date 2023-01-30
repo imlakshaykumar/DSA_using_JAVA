@@ -15,6 +15,7 @@ public class FloorOfNum {
         System.out.println(ans);
     }
 
+    // greatest number <= target
     static int floorNum(int[] arr, int target) {
         int start = 0;
         int end = arr.length - 1;

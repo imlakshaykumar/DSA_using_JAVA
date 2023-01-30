@@ -16,7 +16,13 @@ public class CeilingFan {
     }
 
     // return the element
+    // smallest number >= target
     static int ceiling(int[] arr, int target) {
+
+        // but what if the target is greater than the greatest number of the array
+        if (target > arr[arr.length - 1]) {
+            return -1; // no ans exist
+        }
         int start = 0;
         int end = arr.length - 1;
 
