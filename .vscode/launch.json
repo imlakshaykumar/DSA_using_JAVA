@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RotationCount",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo.Questions.RotationCount",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotatedArray",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo.Questions.RotatedArray",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
