@@ -1,0 +1,159 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "ArraysAndArrayList.Array",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayLists",
+            "request": "launch",
+            "mainClass": "ArraysAndArrayList.ArrayLists",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxValue",
+            "request": "launch",
+            "mainClass": "ArraysAndArrayList.Questions.MaxValue",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseArray",
+            "request": "launch",
+            "mainClass": "ArraysAndArrayList.Questions.ReverseArray",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwapValue",
+            "request": "launch",
+            "mainClass": "ArraysAndArrayList.Questions.SwapValue",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo.BinarySearch",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch CeilingFan",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo.Questions.CeilingFan",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstandLastPosition",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo.Questions.FirstandLastPosition",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch FloorOfNum",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo.Questions.FloorOfNum",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch InfiniteArray",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo.Questions.InfiniteArray",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch MountainArray",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo.Questions.MountainArray",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInMountain",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo.Questions.SearchInMountain",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch SmallestLetter",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo.Questions.SmallestLetter",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo.LinearSearch",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMin",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo.Questions.FindMin",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max2D",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo.Questions.Max2D",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search2D",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo.Questions.Search2D",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchRange",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo.Questions.SearchRange",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchString",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo.Questions.SearchString",
+            "projectName": "DSA_using_JAVA_db89ac83"
+        }
+    ]
+}

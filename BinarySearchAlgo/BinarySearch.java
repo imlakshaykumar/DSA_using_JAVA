@@ -53,14 +53,14 @@ public class BinarySearch {
                 // check if target is small, large or equal to the middle element
                 if (target < arr[mid]) {
                     end = mid - 1;
-                } else (target > arr[mid]) {
+                } else if (target > arr[mid]) {
                     start = mid + 1;
                 }
             } else {
                 // if the array is in descending order
                 if (target > arr[mid]) {
                     end = mid - 1;
-                } else (target < arr[mid]) {
+                } else if (target < arr[mid]) {
                     start = mid + 1;
                 }
             }
