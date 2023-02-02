@@ -45,7 +45,7 @@ public class BinarySearch {
             // (start+end)exceeds the range of int in java, so the better way to do that is:
             int mid = start + (end - start) / 2;
 
-            if (mid == target) {
+            if (arr[mid] == target) {
                 return mid;
             }
 
