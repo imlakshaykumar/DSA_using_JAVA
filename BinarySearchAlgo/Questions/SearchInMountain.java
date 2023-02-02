@@ -9,7 +9,7 @@ public class SearchInMountain {
         int[] arr = { 1, 2, 3, 4, 5, 3, 2, 1 };
         int target = 3;
 
-        System.out.println(search(arr, target));
+        System.out.println(search(arr, target)); // 2
     }
 
     static int search(int[] arr, int target) {
@@ -71,7 +71,7 @@ public class SearchInMountain {
             // (start+end)exceeds the range of int in java, so the better way to do that is:
             int mid = start + (end - start) / 2;
 
-            if (mid == target) {
+            if (arr[mid] == target) {
                 return mid;
             }
 
