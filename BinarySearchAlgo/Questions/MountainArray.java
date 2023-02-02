@@ -31,6 +31,7 @@ public class MountainArray {
                 start = mid + 1; // 'coz we know that mid + 1 element > mid element
             }
         }
+
         // in the end, start == end and pointing to the largest number because of the 2
         // check above
         // start and end are always trying to find max element in the above 2 checks

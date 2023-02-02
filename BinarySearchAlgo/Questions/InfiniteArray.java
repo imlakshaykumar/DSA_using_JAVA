@@ -15,6 +15,7 @@ public class InfiniteArray {
     static int ans(int[] arr, int target) {
         // find the range
         // first start with the box of size 2
+
         int start = 0;
         int end = 1;
 
