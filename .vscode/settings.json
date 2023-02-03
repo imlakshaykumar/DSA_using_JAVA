@@ -1,5 +1,5 @@
 {
-  "editor.renderFinalNewline": false,
+  "editor.renderFinalNewline": "off",
   "java.debug.settings.onBuildFailureProceed": true,
   "editor.fontFamily": "'Fira Code', monospace",
   "liveServer.settings.donotShowInfoMsg": true,
