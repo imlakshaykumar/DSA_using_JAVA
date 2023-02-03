@@ -7,7 +7,10 @@
   "terminal.integrated.cursorBlinking": true,
   "editor.mouseWheelZoom": false,
   "editor.fontWeight": "normal",
-  "cSpell.userWords": ["donot", "Fira"],
+  "cSpell.userWords": [
+    "donot",
+    "Fira"
+  ],
   "editor.smoothScrolling": true,
   "editor.formatOnType": true,
   "editor.formatOnPaste": true,
@@ -19,7 +22,7 @@
   "editor.minimap.enabled": false,
   "editor.fontSize": 14,
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": false,
   "editor.tabCompletion": "on",
