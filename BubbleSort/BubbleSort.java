@@ -4,6 +4,9 @@ import java.util.Arrays;
 
 /**
  * BubbleSort
+ * In this, we compare adjacent elements
+ * If item that is compared with adjacent element is greater or smaller, Swap
+ * that element with compared element
  */
 public class BubbleSort {
     public static void main(String[] args) {
