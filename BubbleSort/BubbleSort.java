@@ -7,6 +7,14 @@ import java.util.Arrays;
  * In this, we compare adjacent elements
  * If item that is compared with adjacent element is greater or smaller, Swap
  * that element with compared element
+ * 
+ * With the first pass through the array, the largest element came to the end
+ * similary, with other passes, like this:
+ * 
+ * 
+ * eg. 3, 2, 1, 5, 4 => 2, 3, 1, 5, 4 => 2, 1, 3, 5, 4 => 2, 1, 3, 4, 5
+ * Here 5(largest element) came at the end of the array. Similarly with other
+ * cases
  */
 public class BubbleSort {
     public static void main(String[] args) {
