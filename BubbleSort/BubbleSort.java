@@ -30,7 +30,7 @@ public class BubbleSort {
         boolean swapped;
 
         for (int i = 0; i < arr.length; i++) {
-            // for each step, ma item will come at the last respective index
+            // for each step, max item will come at the last respective index
             swapped = false;
             for (int j = 1; j < arr.length - i; j++) {
                 // swap if the item is smaller than the previous item
@@ -43,7 +43,7 @@ public class BubbleSort {
                 }
             }
 
-            // if you did not swap for a particular value of i, it means the array us sorted
+            // if you did not swap for a particular value of i, it means the array is sorted
             // hence stop the program
             if (!swapped) {
                 break;
